@@ -1,4 +1,67 @@
-## Hi there 👋
+<h1 align="center">🌸✨ Heyy, I'm Khushboo ✨🌸</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhushbooMehtoo&" alt="KhushbooMehtoo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhushbooMehtoo&show_icons=true&locale=en" alt="KhushbooMehtoo" /></p>
+<p align="center">
+  <img src="http://dl6.glitter-graphics.net/pub/458/458016k05bzk2l11.gif" width="160" />
+</p>
+
+<p align="center">
+  <strong>💖 Aspiring Python Developer • 🎀 MCA Student • 🌷 Tech Lover 💖</strong>
+</p>
+
+<hr style="border: 0.3px solid #f8c8dc;" />
+
+## 🌈 About Me  
+- 🎀 Learning Python step-by-step and loving the journey  
+- 🐍 Exploring data types, loops, functions & OOP  
+- 🌸 Obsessed with cute UI, clean code & aesthetic projects  
+- 📚 Currently in 4th sem of MCA (I ❤️ coding days)  
+- 💡 I love solving problems & creating small fun projects  
+
+## 💗 What I'm Currently Learning  
+- 🔧 Python (Basics → Intermediate)  
+- 🧩 Object-Oriented Programming  
+- 📦 Modules & Packages  
+- 🧠 Logic building + Coding practice  
+- 💻 A little bit of frontend & UI concepts (because pretty things ✨)
+
+## 🎀 My Goals  
+- 🌟 Become confident in Python  
+- 💻 Build real-world mini-projects  
+- ⚡ Improve DSA + LeetCode  
+- 🎯 Move toward backend or automation development  
+
+## 🌸 Fun Facts  
+- 💕 Cute themes & pastel aesthetics make me happy  
+- ☕ Python + Coffee = Perfect day  
+- 🎧 Music while coding is my vibe  
+
+<hr style="border: 0.3px solid #f8c8dc;" />
+
+## 📬 Connect With Me  
+<p align="center">
+  <a href="https://github.com/KhushbooMehtoo">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/khushboo-kumari-26a0b42ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-ff8ac6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:khushboo200022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fc9ac4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<hr style="border: 0.3px solid #f8c8dc;" />
+
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cute-cat.gif" width="180" />
+</p>
+
+<p align="center"><strong>💗 Thanks for visiting my profile! 💗</strong></p>
+
+<!-- GitHub Stats Section (Centered & Aligned) -->
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=KhushbooMehtoo&theme=rose_pine" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KhushbooMehtoo&show_icons=true&theme=rose_pine" />
+</p>
