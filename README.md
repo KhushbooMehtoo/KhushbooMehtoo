@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>💖 Aspiring Python Developer • 🎀 MCA Student • 🌷 Tech Lover 💖</strong>
+  <strong>🌸 Aspiring Python Developer • 💗 MCA Master’s • 🎀 Tech Girlish Vibes</strong>
 </p>
 
 <hr style="border: 0.3px solid #f8c8dc;" />
@@ -14,7 +14,7 @@
 - 🎀 Learning Python step-by-step and loving the journey  
 - 🐍 Exploring data types, loops, functions & OOP  
 - 🌸 Obsessed with cute UI, clean code & aesthetic projects  
-- 📚 Currently in 4th sem of MCA (I ❤️ coding days)  
+- 📚 MCA completed 🦋 (coding days were my whole personality 💖)  
 - 💡 I love solving problems & creating small fun projects  
 
 ## 💗 What I'm Currently Learning  
