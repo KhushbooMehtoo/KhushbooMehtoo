@@ -40,15 +40,15 @@
 ## 📬 Connect With Me  
 <p align="center">
   <a href="https://github.com/KhushbooMehtoo">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-ffcce7?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
   
   <a href="https://www.linkedin.com/in/khushboo-kumari-26a0b42ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff8ac6?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-f7a8d8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="mailto:khushboo200022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fc9ac4?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-fdd9ec?style=for-the-badge&logo=gmail&logoColor=E91E63" />
   </a>
 </p>
 
