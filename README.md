@@ -63,7 +63,8 @@
 <!-- GitHub Stats Section (Centered & Aligned) -->
 <p align="center">
 <img height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KhushbooMehtoo&theme=radical&hide_border=true&border_radius=4.4&short_numbers=true" alt="GitHub Streak"" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KhushbooMehtoo&show_icons=true&theme=rose_pine" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KhushbooMehtoo&show_icons=true&theme=radical" />
+  
 </p>
 
 
