@@ -60,11 +60,17 @@
 
 <p align="center"><strong>💗 Thanks for visiting my profile! 💗</strong></p>
 
-<!-- GitHub Stats Section (Centered & Aligned) -->
+
+<!-- GitHub Stats Section -->
 <p align="center">
-<img height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KhushbooMehtoo&theme=radical&hide_border=true&border_radius=4.4&short_numbers=true" alt="GitHub Streak"" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KhushbooMehtoo&show_icons=true&theme=radical" />
-  
+  <img height="150"
+       src="https://streak-stats.demolab.com?user=KhushbooMehtoo&theme=radical&hide_border=true"
+       alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushbooMehtoo&theme=radical"
+       alt="GitHub Activity Graph" />
 </p>
 
 
